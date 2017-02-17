@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "416733117239",
+    "project_id": "gmail-3c93a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416733117239:android:8bc438e0fb4cc12c",
+        "android_client_info": {
+          "package_name": "mahesh.com.mahesh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416733117239-njqgk0m25ui8bg4ebdevrfmqhbr12p2l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mahesh.com.mahesh",
+            "certificate_hash": "1FDE271CA5BA14DA0963C7EF5ACC7E94BCF48CB2"
+          }
+        },
+        {
+          "client_id": "416733117239-toh5gat76bviue084u82i17egjhpamud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ZyuuqTJVsDg0Ew0CnRQxTF-lg42iJAQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
